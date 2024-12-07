@@ -1,0 +1,52 @@
+[
+    "soccerItems",
+    {
+    "id": 8,
+    "name": "Soccer Ball",
+    "price": "$24.99",
+    "description": "FIFA-approved soccer ball for all levels.",
+    "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTp_kcwlAgQDJXa3DOAyNTLZip5pTb3vb8DSTpyoraO1zfKHDRfBzm7BhgLdLJuCYXi8p2Kv5jZMe6iNgvWjIPLSC1CcGpivUoyvc3Dj8aI"
+    },
+    {
+    "id": 9,
+    "name": "Soccer Cleats",
+    "price": "$69.99",
+    "description": "Lightweight and durable cleats for better traction.",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSYv9ZrYCpp8JziQQQXQuqoPEkfGtkucTz9axnW5SSUQscXq1-bUcXQYQBa69rnv0gAyS3DnbHphId0VsWuOrMkcdlQ-HYxme8sysBG07AEB0lj4wJ9c5Sh2g"
+    },
+    {
+    "id": 10,
+    "name": "Shin Guards",
+    "price": "$12.99",
+    "description": "Essential protection for soccer players.",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFK3cNTmdQIRMk5WEk3tPiIDIIABwLOheZTafYc7yAhkx4_opXETDOLWPjtc6zZb9VKwLkqH3WagLAEBTDhrs14MT3sZupLo-Wn9Nskqbc"
+    },
+    {
+    "id": 11,
+    "name": "Soccer Jersey",
+    "price": "$39.99",
+    "description": "Breathable jersey perfect for players and fans.",
+    "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSia1YGLkMWp1PCjn4zv4DY8SrPNU0PwYR6rfdaOC12M_FJpuXmKcSkBgJlGuyfvvlWRo2t_ldUSKLdvdcrK5bwq0ccDYpoS-0JMKvvoJGUzTeZZ0p1x94y"
+    },
+    {
+    "id": 12,
+    "name": "Goalkeeper Gloves",
+    "price": "$34.99",
+    "description": "High-quality gloves for goalkeepers.",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR7K0FoZhocgEA0CIQ1Pg8wLhbNzDXq1M921w625DPpyNoPoFpIzbitOCxfZUozwxhdK9VDPP-k7m5W1cihrc1gFoE13gcTmiT9SLB9tvZL5NAJWLk6Tnpb"
+    },
+    {
+    "id": 13,
+    "name": "Soccer Net",
+    "price": "$99.99",
+    "description": "Durable net for backyard soccer goals.",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSilvO2n8-fXcppK7DkQnchPuj_FhA6rg5T37odmFVcFwJcjBXY9BoJ4XExTjZmmIfwxUkARvl8DG6Aea2U5-rgTYjBdoo18MWA-PkWn3uspHdNybYrzdjCMQ"
+    },
+    {
+    "id": 14,
+    "name": "Training Cones",
+    "price": "$15.99",
+    "description": "Perfect for drills and practice sessions.",
+    "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS8MS8WtH2c2RJFwBm45K1-j0CPzQ59832oTyFTREku__zdbjQpur9WFRI5WpUu0Uiy2y8_yLbTF337CE2c7-50mbBcC7w4_3ZjNmVhD4pAywZwiz46AJi3_4lNnckNjaypo7cs0J4&usqp=CAc"
+    }
+]

@@ -1,0 +1,53 @@
+[
+    "basketballItems",
+      {
+        "id": 1,
+        "name": "Basketball",
+        "price": "$29.99",
+        "description": "Official size basketball for indoor and outdoor play.",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTyrPCNLJKfaLy98IZVFsbjz9q6-YY5NSyBS-1glGOwT-tNABxhzPDrYWRUHf_wpiW5WZR-2J-z3Jkq74WS58LDDKYpkDzhmeArWQ5dVhxVsN8rdbbWwgVzu-Vv7VlzbJw4jqDLPw&usqp=CAc"
+      },
+      {
+        "id": 2,
+        "name": "Basketball Shoes",
+        "price": "$89.99",
+        "description": "High-performance shoes designed for basketball players.",
+        "image":"https://static.nike.com/a/images/t_PDP_936_v1/f_auto,q_auto:eco/b595bbfb-5d37-404e-b88b-7db68aa5c3d7/JA+2+NIGHTMARE.png"
+      },
+      {
+        "id": 3,
+        "name": "Basketball Jersey",
+        "price": "$49.99",
+        "description": "Comfortable and stylish jersey for fans and players.",
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS4xEIfCT8zTNm-PCta3hlqtrZ00zbLAAuLWwJ-O6LyotVtwLgy6O2l33LZrojo8ngwRN0-UCalqhJXh-kdpQ7uc-U1dqcjHaEOOG1Sl5cm_PQ26_CCAGWyUObKx9KIQPfgMu77RA&usqp=CAc"
+      },
+      {
+        "id": 4,
+        "name": "Hoop",
+        "price": "$199.99",
+        "description": "Durable basketball hoop for outdoor use.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ-ZfGymf64JhaAV_p9e5VrbcSQuGn8iP6d8Mtg7wR4tWRm4Nm8P6YkAbBbza0kyGe7ugTGuxzm49RHXN3_OVRHZGiDbDWpqTeJHVy7v1br49yzAMZO2t-lYg"
+      },
+      {
+        "id": 5,
+        "name": "Ball Pump",
+        "price": "$9.99",
+        "description": "Essential tool for keeping your basketball inflated.",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTuwKDGWCrUf-9iBHdtH3x2sH66Ny6Gj99cEBIrdD6UuB91kEA8WkN0XpjnZKWUO3LhWKaOHOa0JEnIXtxbWWL-Xj6Wa6eLHhgIM3AG3VA"
+      },
+      {
+        "id": 6,
+        "name": "Knee Pads",
+        "price": "$14.99",
+        "description": "Protective gear for basketball players.",
+        "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRgR8NPX7YYVvVAWNleyK42i_Xl4FXIFTm_zLv5MI2i7v7_SHkY6b4wvk7FQ2liEauGLjrME2KX-rV01115Ufbh9v-MFemNsvqxOSEP4bydzTM_6jM0YMC_3M1W5xUDJzA6hrHgjg&usqp=CAc"
+      },
+      {
+        "id": 7,
+        "name": "Shooting Sleeve",
+        "price": "$19.99",
+        "description": "Compression sleeve to support shooting arm.",
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRlZNX1lN0fLa2lQ8SZioGjM8PwipuvDzfzbUgHHlkGtYZFVvbeee90HsIqc7dczcD5L-rWQZX5AuPBJjr0xtZnV1xPsoPKXtVlZK8XHmT3BIqH57Ragp_wig"
+      }
+     
+]
